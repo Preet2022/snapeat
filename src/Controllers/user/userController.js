@@ -34,7 +34,7 @@ exports.registerUsers = async (req, res, next) => {
     results: singupRecords,
   });
   }
-
+//console.log('hiii')
 }
 
 
