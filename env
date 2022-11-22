@@ -1,0 +1,7 @@
+port = 8000
+
+DATABASE = mongodb+srv://madhavappic:9828320124@cluster0.okan6.mongodb.net/snapeat
+
+JWT_SECRET = ASDFGHJKLQWERTYUI
+
+token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QwNkBnbWFpbC5jb20iLCJpZCI6IjYzNzFjNTgwNzU4MDQ5ZjM2Y2QxNWZkYyIsImlhdCI6MTY2ODUwNDExMX0.-_rHjSwCDvGwutwuPIP1R_NI6sCIkWCVJ5lxve16T7E
