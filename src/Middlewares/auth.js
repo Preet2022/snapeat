@@ -30,7 +30,7 @@ exports.authorization_user = (req, res, next) => {
               
                 if (rows.length > 0) {
                     
-                        console.log(rows)
+                        //console.log(rows)
                         if (rows[0].status == true) {
                             req.user.email = rows[0].email;
                             next();
